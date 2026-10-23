@@ -59,7 +59,7 @@ Please check the [Releases](../../releases) page for version-specific details.
 | **IPTV Manager** | IPTV & Live TV | IPTV manager for Samsung Tizen TV with Xtream Codes support and HLS playback. | [matifDreamIt](https://github.com/matifDreamIt/IPTV-Tizen-TV) | `d8eb66b` |
 | **Jellyfin + Bonfire** | Media servers & players | Official Jellyfin Web client patched with the Bonfire loader for multi-user profile switching. Requires the Bonfire plugin on your Jellyfin server. | [jellyfin](https://github.com/jellyfin/jellyfin-web) | `61b1f89` |
 | **Kick TV 2.0** | Streaming | Kick live streams and public archives for Samsung Tizen TVs. | [janrydzewski](https://github.com/janrydzewski/kick-tv-2.0) | `v2.0.1` |
-| **KickTV** | Streaming | Kick.com streaming client for Samsung Tizen TVs. | [corekill](https://github.com/corekill/kick-tv-tizen) | `v2.2.2` |
+| **KickTV** | Streaming | Kick.com streaming client for Samsung Tizen TVs. | [corekill](https://github.com/corekill/kick-tv-tizen) | `v2.2.3` |
 | **Kodi-TeX** | Media servers & players | Kodi TeX web interface ported to Samsung Tizen. | [PatrickSt1991](https://github.com/PatrickSt1991/tex-tizen) | `tex-tizen-v1.3.0-2026-06-09-0952` |
 | **Moonlight** | Games & emulators | Open-source client for NVIDIA GameStream and Sunshine. | [OneLiberty](https://github.com/OneLiberty/moonlight-chrome-tizen) | `v1.2.1` |
 | **Moonlight (No Gamemode)** | Games & emulators | Open-source client for NVIDIA GameStream and Sunshine with gamemode disabled. | [MrPhaze62](https://github.com/MrPhaze62/moonlight-chrome-tizen-no-gamemode) | `samsung_wasm-21031261929` |
@@ -73,7 +73,7 @@ Please check the [Releases](../../releases) page for version-specific details.
 | **Pelagica** | Media servers & players | A modern web, desktop and TV client for Jellyfin | [PelagicaApp](https://github.com/PelagicaApp/pelagica) | `4.14.0` |
 | **PlayerAVPlay** | Media servers & players | AVPlayer app | [yadPe](https://github.com/yadPe/PlayerAVPlay) | `latest` |
 | **React IPTV** | IPTV & Live TV | IPTV player for Samsung Tizen TV, built with React. | [anandsimmy](https://github.com/anandsimmy/react-iptv) | `7a7dcc2` |
-| **Reelo** | Streaming | TV client for the Reelo service: films and series with a remote-first interface, family profiles and library sync between devices (Russian UI). | [Reelo](https://github.com/ihovsky/Reelo) | `Thu, 22 Oct 2026 00:06:25 GMT` |
+| **Reelo** | Streaming | TV client for the Reelo service: films and series with a remote-first interface, family profiles and library sync between devices (Russian UI). | [Reelo](https://github.com/ihovsky/Reelo) | `Thu, 22 Oct 2026 19:23:41 GMT` |
 | **Reiverr** | Media servers & players | A clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr. | [aleksilassila](https://github.com/aleksilassila/reiverr) | `dbdd50d` |
 | **RTSP Camera Viewer** | Casting & cameras | Display RTSP streams from IP cameras on your Samsung TV, with numpad channel switching and a 4-camera grid. Requires the companion rtsp-samsung-tv server (Node or Docker) running on your LAN. | [vzakharchenko](https://github.com/vzakharchenko/rtsp-samsung-tv) | `3aefa34` |
 | **RÚV** | IPTV & Live TV | Apps for RÚV, the Icelandic national broadcaster: Sarpur on demand, Barnaefni for children, Unglingar for teens, Menntun for education, and Útvarp radio (not affiliated with RÚV) | [RÚV VOD](https://github.com/sverrirs/ruv-app-samsung) | `2026.08.25-2350` |
@@ -84,7 +84,7 @@ Please check the [Releases](../../releases) page for version-specific details.
 | **Stremio (Tizen 4)** | Streaming | Stremio media center packaged for Tizen 4.0 devices. | [Apps2Samsung](https://github.com/Apps2Samsung/tizen-community-packages) | `latest` |
 | **tacplayer** | Media servers & players | Custom Jellyfin Tizen client with cinematic red UI for Samsung TV | [sfsdffesfsfg-cloud](https://github.com/sfsdffesfsfg-cloud/tacplayer) | `v0.1.0` |
 | **Tailscale** | Tools & system | Tailscale exit-node app for Samsung Tizen TV (experimental; advertises the TV as a tailnet exit node). | [PatrickSt1991](https://github.com/PatrickSt1991/tailscale-tizen) | `tv8-tester` |
-| **Tessel** | Media servers & players | Media player for Samsung TVs: SMB shares, USB drives, network streams and subtitles, with an optional transcode server (formerly VLC-Tizen-tv). | [PatrickSt1991](https://github.com/PatrickSt1991/tessel-tizen-tv) | `v1.29.0-20261021-0612` |
+| **Tessel** | Media servers & players | Media player for Samsung TVs: SMB shares, USB drives, network streams and subtitles, with an optional transcode server (formerly VLC-Tizen-tv). | [PatrickSt1991](https://github.com/PatrickSt1991/tessel-tizen-tv) | `v1.30.0-20261022-1315` |
 | **TizenBrew** | Tools & system | A way to experience modded websites and you can install newer apps without fighting with Tizen Studio. | [reisxd](https://github.com/reisxd/TizenBrew) | `v2.0.5` |
 | **TizenFeed** | Other | News / RSS feed sample app for Tizen TV. | [judithsirera](https://github.com/judithsirera/TizenFeed) | `8c42b51` |
 | **TizenTVAudioRecorder** | Other | HTML5 Audio Recorder (kalaoke App). | [TizenTVWebApp](https://github.com/TizenTVWebApp/TizenTVAudioRecorder) | `latest` |
