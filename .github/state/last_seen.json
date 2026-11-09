@@ -1,7 +1,7 @@
 {
   "build:DmitryMaksakov/samsung-tv-iperf3@main": "d20ac9f65531ff754f79a8490efb548c5fefdbb5",
   "build:DvzZDev/VexonTV@main": "9aa670ed641f8fe5e0980cd04b65a75ffbcd14ed",
-  "build:aleksilassila/reiverr@master": "ce858f5294ccc0c38b774a8ef1dbfc60a121dd8b",
+  "build:aleksilassila/reiverr@master": "3b7351f8bc6e53c61b90c583fe5857dac543c139",
   "build:anandsimmy/react-iptv@main": "7a7dcc285e374676a2197d70d9d1c443f2b35fa2",
   "build:aroundmyroom/Velvet@main": "6c0a88fb4f7d374cbe53f9e4cdc130b12eedadaa",
   "build:fgl27/smarttv-twitch@master": "ca315126b2c432cab82df746c7998e29ad10ae0f",
@@ -11,7 +11,7 @@
   "build:matifDreamIt/IPTV-Tizen-TV@main": "d8eb66b9874d54a225cf584824544925e7dd521f",
   "build:vzakharchenko/rtsp-samsung-tv@master": "3aefa3405202ef54bcf32a5a71a47160938addd4",
   "build:xHiqhAim/immitv@main": "142e6ae71927191ed08fd1edd9c99dd1dc868960",
-  "release:AdvaithAvinash/AniUltimatium": "stable-v1.22",
+  "release:AdvaithAvinash/AniUltimatium": "stable-v1.24",
   "release:Apps2Samsung/Overscan": "build-363c881",
   "release:AquaPlayIPTV/aquaplay-samsung": "v1.0.51",
   "release:CoreDip/anilibria-tizen-wgt": "v1.1.0",
@@ -20,7 +20,7 @@
   "release:MrPhaze62/moonlight-chrome-tizen-no-gamemode": "samsung_wasm-21031261929",
   "release:MrSimmo/sonance3": "v3.15",
   "release:Nur-allhi/en-tvplayer": "v3.2.0",
-  "release:NuvioMedia/NuvioWeb": "1.3.9",
+  "release:NuvioMedia/NuvioWeb": "1.3.10",
   "release:OneLiberty/moonlight-chrome-tizen": "v1.2.1",
   "release:PatrickSt1991/Sportlink.Club.Info.Viewer": "v1.1.0",
   "release:PatrickSt1991/chorus2-tizen": "tizen-v21.x-1.0.1-2026-05-21-1443",
@@ -28,7 +28,7 @@
   "release:PatrickSt1991/tailscale-tizen": "tpk-f3a7b39",
   "release:PatrickSt1991/tessel-tizen-tv": "v1.35.0-20261105-0948",
   "release:PatrickSt1991/tex-tizen": "tex-tizen-v1.3.0-2026-06-09-0952",
-  "release:PelagicaApp/pelagica": "4.14.0",
+  "release:PelagicaApp/pelagica": "4.15.0",
   "release:SushyDev/tizen-youtube": "v1.6.0",
   "release:TAGISWILD/beam-tv": "v1.0.1",
   "release:Trent407/chiaki-tizen": "v0.2.0",
@@ -54,6 +54,6 @@
   "direct:TizenTVWebApp/TizenTVAudioRecorder": "etag:\"ee5fea95757fb79a31daae30de7054e27323fe8b30e8fca6f38cb195e7f03c02\"|mod:|len:29724428",
   "direct:futo-org/FCastReceiver": "etag:\"ffdc59301ed48f6a265c93ec27b7b263\"|mod:Wed, 08 Oct 2025 17:07:02 GMT|len:6669120",
   "direct:ihovsky/Reelo": "etag:\"6aef748d-994b64\"|mod:Sat, 07 Nov 2026 18:57:17 GMT|len:10046308",
-  "direct:prog4food/ottplay-foss-thin-clients": "etag:|mod:|len:92",
+  "direct:prog4food/ottplay-foss-thin-clients": "etag:\"0x8DAFBC24D128479\"|mod:Sat, 21 Jan 2023 15:15:16 GMT|len:10090",
   "direct:yadPe/PlayerAVPlay": "etag:\"86d18fae091a6bb45afea7897ba07656ac8c1c6123440d25cddd8ca944129b26\"|mod:|len:32385"
 }
