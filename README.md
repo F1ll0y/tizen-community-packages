@@ -40,8 +40,8 @@ Please check the [Releases](../../releases) page for version-specific details.
 |----------------|-------------|----------------|------------------|------------|
 | **AirTizen** | Casting & cameras | AirPlay receiver for Samsung Tizen TV — stream audio/video to older Samsung TVs. | [MrHumanRebel](https://github.com/MrHumanRebel/airtizen) | `v2.2.34` |
 | **AniLiberty** | Streaming | Unofficial AniLibria anime client for Samsung Tizen TV. | [CoreDip](https://github.com/CoreDip/anilibria-tizen-wgt) | `v1.1.0` |
-| **AniUltimatium** | Streaming | Anime streaming app for Samsung Tizen TVs. | [AdvaithAvinash](https://github.com/AdvaithAvinash/AniUltimatium) | `stable-v1.24` |
-| **AquaPlay IPTV** | IPTV & Live TV | Lightweight IPTV player for M3U and Xtream playlists, with a full guide, catch-up and setup from your phone | [AquaPlay IPTV](https://github.com/AquaPlayIPTV/aquaplay-samsung) | `v1.0.51` |
+| **AniUltimatium** | Streaming | Anime streaming app for Samsung Tizen TVs. | [AdvaithAvinash](https://github.com/AdvaithAvinash/AniUltimatium) | `stable-v1.25` |
+| **AquaPlay IPTV** | IPTV & Live TV | Lightweight IPTV player for M3U and Xtream playlists, with a full guide, catch-up and setup from your phone | [AquaPlay IPTV](https://github.com/AquaPlayIPTV/aquaplay-samsung) | `v1.0.52` |
 | **Beam-TV** | Media servers & players | Open-source USB and DLNA media player for Samsung Tizen TVs — subtitles, resume playback, remote navigation, and a local companion server. | [TAGISWILD](https://github.com/TAGISWILD/beam-tv) | `v1.0.1` |
 | **Chiaki-Tizen** | Games & emulators | An open source PlayStation remote play project serving as the next-generation of Chiaki. | [Chiaki-Tizen](https://github.com/Trent407/chiaki-tizen) | `v0.2.0` |
 | **Chorus2-Tizen** | Media servers & players | Chorus2-Tizen (Kodi) Samsung Tizen. | [Chorus2-Tizen](https://github.com/PatrickSt1991/chorus2-tizen) | `tizen-v21.x-1.0.1-2026-05-21-1443` |
@@ -65,7 +65,7 @@ Please check the [Releases](../../releases) page for version-specific details.
 | **Moonlight (No Gamemode)** | Games & emulators | Open-source client for NVIDIA GameStream and Sunshine with gamemode disabled. | [MrPhaze62](https://github.com/MrPhaze62/moonlight-chrome-tizen-no-gamemode) | `samsung_wasm-21031261929` |
 | **Moonlight (ToypoodleGaming)** | Games & emulators | Moonlight NVIDIA GameStream / Sunshine client (ToypoodleGaming fork). | [toypoodlegaming](https://github.com/toypoodlegaming/moonlight-chrome-tizen) | `samsung_wasm-21031332442` |
 | **Moonlight-Tizen** | Games & emulators | Open-source client for NVIDIA GameStream and Sunshine Tizen OS 5.5 or higher. | [BrightCraft](https://github.com/brightcraft/moonlight-tizen) | `v1.20.0` |
-| **Nuvio** | Streaming | TV-first streaming UI for Samsung Tizen. | [NuvioMedia](https://github.com/NuvioMedia/NuvioWeb) | `1.3.10` |
+| **Nuvio** | Streaming | TV-first streaming UI for Samsung Tizen. | [NuvioMedia](https://github.com/NuvioMedia/NuvioWeb) | `1.3.11` |
 | **Nuvio Native Legacy** | Streaming | Unofficial native C/SDL2 Nuvio client, fast on older TVs. Native .tpk per Tizen version (4.0-5.5, 6.0, 6.5-7, 8-9) plus a WebAssembly .wgt for Tizen 5.5+. | [iqui27](https://github.com/iqui27/nuvio-native-legacy) | `v2.0.8` |
 | **OpenIPTV** | IPTV & Live TV | Privacy focused IPTV player for Samsung Tizen TVs with extended M3U playlists, favourites and search. | [shayanline](https://github.com/shayanline/OpenIPTV) | `1.9.3` |
 | **OTTplay FOSS** | IPTV & Live TV | FOSS OTT / IPTV thin client for Tizen. | [prog4food](https://github.com/prog4food/ottplay-foss-thin-clients) | `Sat, 21 Jan 2023 15:15:16 GMT` |
