@@ -40,7 +40,7 @@ Please check the [Releases](../../releases) page for version-specific details.
 |----------------|-------------|----------------|------------------|------------|
 | **AirTizen** | Casting & cameras | AirPlay receiver for Samsung Tizen TV — stream audio/video to older Samsung TVs. | [MrHumanRebel](https://github.com/MrHumanRebel/airtizen) | `v2.2.34` |
 | **AniLiberty** | Streaming | Unofficial AniLibria anime client for Samsung Tizen TV. | [CoreDip](https://github.com/CoreDip/anilibria-tizen-wgt) | `v1.1.0` |
-| **AniUltimatium** | Streaming | Anime streaming app for Samsung Tizen TVs. | [AdvaithAvinash](https://github.com/AdvaithAvinash/AniUltimatium) | `stable-v1.26` |
+| **AniUltimatium** | Streaming | Anime streaming app for Samsung Tizen TVs. | [AdvaithAvinash](https://github.com/AdvaithAvinash/AniUltimatium) | `stable-v1.27` |
 | **AquaPlay IPTV** | IPTV & Live TV | Lightweight IPTV player for M3U and Xtream playlists, with a full guide, catch-up and setup from your phone | [AquaPlay IPTV](https://github.com/AquaPlayIPTV/aquaplay-samsung) | `v1.0.53` |
 | **Beam-TV** | Media servers & players | Open-source USB and DLNA media player for Samsung Tizen TVs — subtitles, resume playback, remote navigation, and a local companion server. | [TAGISWILD](https://github.com/TAGISWILD/beam-tv) | `v1.0.1` |
 | **Chiaki-Tizen** | Games & emulators | An open source PlayStation remote play project serving as the next-generation of Chiaki. | [Chiaki-Tizen](https://github.com/Trent407/chiaki-tizen) | `v0.2.0` |
@@ -73,7 +73,7 @@ Please check the [Releases](../../releases) page for version-specific details.
 | **Pelagica** | Media servers & players | A modern web, desktop and TV client for Jellyfin | [PelagicaApp](https://github.com/PelagicaApp/pelagica) | `4.17.0` |
 | **PlayerAVPlay** | Media servers & players | AVPlayer app | [yadPe](https://github.com/yadPe/PlayerAVPlay) | `latest` |
 | **React IPTV** | IPTV & Live TV | IPTV player for Samsung Tizen TV, built with React. | [anandsimmy](https://github.com/anandsimmy/react-iptv) | `7a7dcc2` |
-| **Reelo** | Streaming | TV client for the Reelo service: films and series with a remote-first interface, family profiles and library sync between devices (Russian UI). | [Reelo](https://github.com/ihovsky/Reelo) | `Thu, 19 Nov 2026 18:00:20 GMT` |
+| **Reelo** | Streaming | TV client for the Reelo service: films and series with a remote-first interface, family profiles and library sync between devices (Russian UI). | [Reelo](https://github.com/ihovsky/Reelo) | `Sat, 21 Nov 2026 08:33:18 GMT` |
 | **Reiverr** | Media servers & players | A clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr. | [aleksilassila](https://github.com/aleksilassila/reiverr) | `5923207` |
 | **RTSP Camera Viewer** | Casting & cameras | Display RTSP streams from IP cameras on your Samsung TV, with numpad channel switching and a 4-camera grid. Requires the companion rtsp-samsung-tv server (Node or Docker) running on your LAN. | [vzakharchenko](https://github.com/vzakharchenko/rtsp-samsung-tv) | `3aefa34` |
 | **RÚV** | IPTV & Live TV | Apps for RÚV, the Icelandic national broadcaster: Sarpur on demand, Barnaefni for children, Unglingar for teens, Menntun for education, and Útvarp radio (not affiliated with RÚV) | [RÚV VOD](https://github.com/sverrirs/ruv-app-samsung) | `2026.08.25-2350` |
